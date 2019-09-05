@@ -14,7 +14,7 @@ Marco Schreyer,
  Christian Schulze, 
  Bernd Reimer, 
  Damian Borth<br>
-In KDD 2019<br>
+In 2nd KDD Workshop on Anomaly Detection in Finance 2019<br>
 <a href="https://arxiv.org/pdf/1908.00734">[Paper]</a> 
 <a href="-">[Project]</a>
 </td></tr></tbody></table>
@@ -28,7 +28,7 @@ Marco Schreyer,
  Damian Borth, 
  Andreas Dengel, 
  Bernd Reimer<br>
-In arXiv 2017<br>
+In arXiv.org e-Print archive 2017<br>
 <a href="https://arxiv.org/pdf/1709.05254">[Paper]</a> 
 <a href="-">[Project]</a>
 </td></tr></tbody></table>
