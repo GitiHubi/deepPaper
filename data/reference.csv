@@ -1,3 +1,3 @@
 title,year,paper_link,project_link,article,authors,teaser
-Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks,2019,https://arxiv.org/pdf/1908.00734,-,KDD,Marco Schreyer; Timur Sattarov; Christian Schulze; Bernd Reimer; Damian Borth,Schreyer2019.png
-Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks ,2017,https://arxiv.org/pdf/1709.05254,-,arXiv,Marco Schreyer; Timur Sattarov; Damian Borth; Andreas Dengel; Bernd Reimer,Schreyer2017.png
+Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks,2019,https://arxiv.org/pdf/1908.00734,-,2nd KDD Workshop on Anomaly Detection in Finance,Marco Schreyer; Timur Sattarov; Christian Schulze; Bernd Reimer; Damian Borth,Schreyer2019.png
+Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks ,2017,https://arxiv.org/pdf/1709.05254,-,arXiv.org e-Print archive,Marco Schreyer; Timur Sattarov; Damian Borth; Andreas Dengel; Bernd Reimer,Schreyer2017.png
