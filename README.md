@@ -37,6 +37,6 @@ In arXiv 2017<br>
 
 <br>
 
-Last updated in Sep 2019 , based on an idea of [Jun-Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/) 
+Last updated in Sep 2019 , based on an idea of [Jun-Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/).
 <br>
 
