@@ -8,7 +8,7 @@ The setup up of the collection is currently 'work in progress'. Therefore, pleas
 
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="-"><img src="teasers/Schreyer2019.png"/></a></td>
-<td align="left" width=550><b>Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks</b><br>
+<td align="left" width=550><b>"Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks"</b><br>
 Marco Schreyer, 
  Timur Sattarov, 
  Christian Schulze, 
@@ -22,7 +22,7 @@ In KDD 2019<br>
 
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="-"><img src="teasers/Schreyer2017.png"/></a></td>
-<td align="left" width=550><b>Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks </b><br>
+<td align="left" width=550><b>"Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks "</b><br>
 Marco Schreyer, 
  Timur Sattarov, 
  Damian Borth, 
