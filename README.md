@@ -7,6 +7,18 @@ The setup up of the collection is currently 'work in progress'. Therefore, pleas
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://www.dfki.de/en/web/research/projects-and-publications/projects/project/spotted/"><img src="teasers/Lahann2019.png"/></a></td>
+<td align="left" width=550><b>"Utilizing Machine Learning Techniques to Reveal VAT Compliance Violations in Accounting Data"</b><br>
+Johannes Lahann, 
+Martin Scheid, 
+Peter Fettke<br>
+In IEEE 21st Conference on Business Informatics (CBI) 2019<br>
+<a href="https://ieeexplore.ieee.org/document/8808015">[Paper]</a> 
+<a href="https://www.dfki.de/en/web/research/projects-and-publications/projects/project/spotted/">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="-"><img src="teasers/Schreyer2019.png"/></a></td>
 <td align="left" width=550><b>"Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks"</b><br>
 Marco Schreyer, 
@@ -14,7 +26,7 @@ Marco Schreyer,
  Christian Schulze, 
  Bernd Reimer, 
  Damian Borth<br>
-In 2nd KDD Workshop on Anomaly Detection in Finance 2019<br>
+In ACM KDD 2nd Workshop on Anomaly Detection in Finance 2019<br>
 <a href="https://arxiv.org/pdf/1908.00734">[Paper]</a> 
 <a href="-">[Project]</a>
 </td></tr></tbody></table>
