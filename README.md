@@ -19,7 +19,7 @@ In IEEE 21st Conference on Business Informatics (CBI) 2019<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="-"><img src="teasers/Schreyer2019.png"/></a></td>
+<a href="https://github.com/GitiHubi/deepAD"><img src="teasers/Schreyer2019.png"/></a></td>
 <td align="left" width=550><b>"Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks"</b><br>
 Marco Schreyer, 
  Timur Sattarov, 
@@ -28,12 +28,12 @@ Marco Schreyer,
  Damian Borth<br>
 In ACM KDD 2nd Workshop on Anomaly Detection in Finance 2019<br>
 <a href="https://arxiv.org/pdf/1908.00734">[Paper]</a> 
-<a href="-">[Project]</a>
+<a href="https://github.com/GitiHubi/deepAD">[Project]</a>
 </td></tr></tbody></table>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="-"><img src="teasers/Schreyer2017.png"/></a></td>
+<a href="https://github.com/GitiHubi/deepAI"><img src="teasers/Schreyer2017.png"/></a></td>
 <td align="left" width=550><b>"Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks "</b><br>
 Marco Schreyer, 
  Timur Sattarov, 
@@ -42,7 +42,7 @@ Marco Schreyer,
  Bernd Reimer<br>
 In arXiv.org e-Print archive 2017<br>
 <a href="https://arxiv.org/pdf/1709.05254">[Paper]</a> 
-<a href="-">[Project]</a>
+<a href="https://github.com/GitiHubi/deepAI">[Project]</a>
 </td></tr></tbody></table>
 
 
