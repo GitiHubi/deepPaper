@@ -81,7 +81,7 @@ In Expert Systems with Applications 38, 2011<br>
 
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="-"><img src="teasers/-"/></a></td>
-<td align="left" width=550><b>"Data Mining Journal Entries for Fraud Detection "</b><br>
+<td align="left" width=550><b>"Data Mining Journal Entries for Fraud Detection: An Exploratory Study"</b><br>
 Roger S. Debreceny, 
 and,  Glen L. Gray <br>
 In International Journal of Accounting Information Systems, 2010<br>
