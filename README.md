@@ -34,7 +34,7 @@ In 25th Conference on Knowledge Discovery and Data Mining (KDD) - 2nd Workshop o
 
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/GitiHubi/deepAI"><img src="teasers/Schreyer2017.png"/></a></td>
-<td align="left" width=550><b>"Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks "</b><br>
+<td align="left" width=550><b>"Detection of Anomalies in Large-Scale Accounting Data using Deep Autoencoder Networks"</b><br>
 Marco Schreyer, 
  Timur Sattarov, 
  Damian Borth, 
@@ -92,7 +92,7 @@ In International Journal of Accounting Information Systems, 2010<br>
 
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="-"><img src="teasers/Khan2010.png"/></a></td>
-<td align="left" width=550><b>"Transaction Mining for Fraud Detection in ERP Systems "</b><br>
+<td align="left" width=550><b>"Transaction Mining for Fraud Detection in ERP Systems"</b><br>
 Roheena Q. Khan, 
  Malcolm Corney, 
  Andrew J. Clark, 
@@ -105,7 +105,7 @@ In Industrial Engineering and Management Systems 9 , 2010<br>
 
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="-"><img src="teasers/Islam2010.png"/></a></td>
-<td align="left" width=550><b>"Fraud detection in ERP systems using Scenario matching "</b><br>
+<td align="left" width=550><b>"Fraud detection in ERP systems using Scenario matching"</b><br>
 Asadul K. Islam, 
  Malcolm Corney, 
  George Mohay, 
