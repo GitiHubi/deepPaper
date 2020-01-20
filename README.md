@@ -8,7 +8,7 @@ The setup up of the collection is currently 'work in progress'. Therefore, pleas
 
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="-"><img src="teasers/Schultz2020.png"/></a></td>
-<td align="left" width=550><b>"Autoencoder Neural Networks versus External Auditors: Detecting Unusual Journal Entries in Financial Statement Audits "</b><br>
+<td align="left" width=550><b>"Autoencoder Neural Networks versus External Auditors: Detecting Unusual Journal Entries in Financial Statement Audits"</b><br>
 Martin Schultz, 
 and,  Marina Tropmann-Frick<br>
 In 53rd Hawaii International Conference on System Sciences | Manoa | USA, 2020<br>
