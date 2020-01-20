@@ -47,7 +47,7 @@ In arXiv.org e-Print archive, 2017<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="-"><img src="teasers/-"/></a></td>
+<a href="-"><img src="teasers/Argyrou2013.png"/></a></td>
 <td align="left" width=550><b>"Auditing Journal Entries Using Extreme Vale Theory"</b><br>
 Argyris Argyrou<br>
 In 21st European Conference on Information Systems, 2013<br>
@@ -57,7 +57,7 @@ In 21st European Conference on Information Systems, 2013<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="-"><img src="teasers/-"/></a></td>
+<a href="-"><img src="teasers/Argyrou2012.png"/></a></td>
 <td align="left" width=550><b>"Auditing Journal Entries Using Self-Organizing Map"</b><br>
 Argyris Argyrou<br>
 In 18th Americas Conference on Information Systems (AMCIS), 2012<br>
@@ -67,7 +67,7 @@ In 18th Americas Conference on Information Systems (AMCIS), 2012<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="-"><img src="teasers/-"/></a></td>
+<a href="-"><img src="teasers/Jans2011.png"/></a></td>
 <td align="left" width=550><b>"A Business Process Mining Application for Internal Transaction Fraud Mitigation"</b><br>
 Mike Jans, 
  Jan Martijn Van Der Werf, 
@@ -80,7 +80,7 @@ In Expert Systems with Applications 38, 2011<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="-"><img src="teasers/-"/></a></td>
+<a href="-"><img src="teasers/Debreceny2010.png"/></a></td>
 <td align="left" width=550><b>"Data Mining Journal Entries for Fraud Detection: An Exploratory Study"</b><br>
 Roger S. Debreceny, 
 and,  Glen L. Gray <br>
@@ -91,7 +91,7 @@ In International Journal of Accounting Information Systems, 2010<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="-"><img src="teasers/-"/></a></td>
+<a href="-"><img src="teasers/Khan2010.png"/></a></td>
 <td align="left" width=550><b>"Transaction Mining for Fraud Detection in ERP Systems "</b><br>
 Roheena Q. Khan, 
  Malcolm Corney, 
@@ -104,7 +104,7 @@ In Industrial Engineering and Management Systems 9 , 2010<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="-"><img src="teasers/-"/></a></td>
+<a href="-"><img src="teasers/Islam2010.png"/></a></td>
 <td align="left" width=550><b>"Fraud detection in ERP systems using Scenario matching "</b><br>
 Asadul K. Islam, 
  Malcolm Corney, 
@@ -120,7 +120,7 @@ In IFIP Advances in Information and Communication Technology 330 , 2010<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="-"><img src="teasers/-"/></a></td>
+<a href="-"><img src="teasers/McGlohon2009.png"/></a></td>
 <td align="left" width=550><b>"SNARE: A Link Analytic System for Graph Labeling and Risk Detection"</b><br>
 Mary McGlohon, 
  Stephan Bay, 
@@ -134,7 +134,7 @@ In 15th Conference on Knowledge Discovery and Data Mining (KDD) - Research Track
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="-"><img src="teasers/-"/></a></td>
+<a href="-"><img src="teasers/Khan2009.png"/></a></td>
 <td align="left" width=550><b>"A Role Mining Inspired Approach to Representing User Behaviour in ERP Systems"</b><br>
 Roheena Q. Khan, 
 and,  Malcolm Corney <br>
@@ -145,7 +145,7 @@ In 10th Asia Pacific Industrial Engineering and Management Systems Conference , 
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="-"><img src="teasers/-"/></a></td>
+<a href="-"><img src="teasers/Bay2009.png"/></a></td>
 <td align="left" width=550><b>"Large Scale Detection of Irregularities in Accounting Data"</b><br>
 Stephan Bay, 
  Krishna Kumaraswamy, 
@@ -161,6 +161,6 @@ In 6th International Conference on Data Mining (ICDM), 2006<br>
 
 <br>
 
-Last updated in Sep 2019 , based on an idea of [Jun-Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/).
+Last updated in Jan 2020 , based on an idea of [Jun-Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/).
 <br>
 
