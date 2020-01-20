@@ -1,8 +1,8 @@
-## Financial Audit Data Analytics Paper Collection
+## The Data Analytics in Financial Audits Paper Collection
 
-The **Financial Audit Data Analytics Paper Collection** is an academic paper collection that encompasses data analytics, machine learning, and deep learning papers that produce experimental results related to the **audit of transactional financial accounting data**. If you want to add/remove an article, please send an email to me via marco dot schreyer at unisg dot ch.
+The **Data Analytics in Financial Audits and Accounting Paper Collection** is a collection of academic publications that demonstrate the application of data analytics, machine learning, and deep learning techniques in the context of financial (statement) audits. The collected publications thereby focus on the analysis of transactional accounting data contained in Enterprise Ressource Planning (ERP) systems (such as SAP FI and/or Oracle Financials) usually examined in such audits. 
 
-The setup up of the collection is currently 'work in progress'. Therefore, please don't expect an all-encompassing list of papers at this point.
+The setup up of the collection is currently 'work in progress'. Therefore, please don't expect an all-encompassing list of papers at this point.  If you want to have an article added or removed, please send an email to me via marco dot schreyer at unisg dot ch.
 
 <br>
 
