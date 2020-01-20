@@ -7,26 +7,50 @@ The setup up of the collection is currently 'work in progress'. Therefore, pleas
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="-"><img src="teasers/Schultz2020.png"/></a></td>
+<td align="left" width=550><b>"Autoencoder Neural Networks versus External Auditors: Detecting Unusual Journal Entries in Financial Statement Audits "</b><br>
+Martin Schultz, 
+and,  Marina Tropmann-Frick<br>
+In 53rd Hawaii International Conference on System Sciences | Manoa | USA, 2020<br>
+<a href="https://scholarspace.manoa.hawaii.edu/bitstream/10125/64408/0536.pdf">[Paper]</a> 
+<a href="-">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://www.dfki.de/en/web/research/projects-and-publications/projects/project/spotted/"><img src="teasers/Lahann2019.png"/></a></td>
 <td align="left" width=550><b>"Utilizing Machine Learning Techniques to Reveal VAT Compliance Violations in Accounting Data"</b><br>
 Johannes Lahann, 
 Martin Scheid, 
 and, Peter Fettke<br>
-In IEEE 21st Conference on Business Informatics (CBI), 2019<br>
+In IEEE 21st Conference on Business Informatics (CBI) | Moscow | Russia, 2019<br>
 <a href="https://ieeexplore.ieee.org/document/8808015">[Paper]</a> 
 <a href="https://www.dfki.de/en/web/research/projects-and-publications/projects/project/spotted/">[Project]</a>
 </td></tr></tbody></table>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/GitiHubi/deepAD"><img src="teasers/Schreyer2019.png"/></a></td>
+<a href="-"><img src="teasers/Schreyer2019b.png"/></a></td>
+<td align="left" width=550><b>"Adversarial Learning of Deepfakes in Accounting"</b><br>
+Marco Schreyer, 
+ Timur Sattarov, 
+ Bernd Reimer, 
+and,  Damian Borth<br>
+In 33rd Conference on Neural Information Processing Systems (NeurIPS) | Workshop on Robust AI in Financial Services | Vancouver | Canada, 2019<br>
+<a href="https://arxiv.org/abs/1910.03810">[Paper]</a> 
+<a href="-">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/GitiHubi/deepAD"><img src="teasers/Schreyer2019a.png"/></a></td>
 <td align="left" width=550><b>"Detection of Accounting Anomalies in the Latent Space using Adversarial Autoencoder Neural Networks"</b><br>
 Marco Schreyer, 
  Timur Sattarov, 
  Christian Schulze, 
  Bernd Reimer, 
 and,  Damian Borth<br>
-In 25th Conference on Knowledge Discovery and Data Mining (KDD) - 2nd Workshop on Anomaly Detection in Finance, 2019<br>
+In 25th Conference on Knowledge Discovery and Data Mining (KDD) | 2nd Workshop on Anomaly Detection in Finance | Anchorage | USA, 2019<br>
 <a href="https://arxiv.org/pdf/1908.00734">[Paper]</a> 
 <a href="https://github.com/GitiHubi/deepAD">[Project]</a>
 </td></tr></tbody></table>
