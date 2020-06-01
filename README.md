@@ -72,7 +72,7 @@ Nvidias GPU Technology Conference (GTC) - Financial Services Track, San Jose, US
 <a href="https://pdfs.semanticscholar.org/191d/09d88c0013fbd5d3cf6f608bc3a4363b38db.pdf"><img src="teasers/Argyrou2013.png"/></a></td>
 <td align="left" width=550><b>'Auditing Journal Entries Using Extreme Vale Theory'</b><br>
 Argyris Argyrou<br>
-21st European Conference on Information Systems, , , 2013<br>
+21st European Conference on Information Systems (ECIS), Utrecht, Netherlands, 2013<br>
 <a href="https://pdfs.semanticscholar.org/191d/09d88c0013fbd5d3cf6f608bc3a4363b38db.pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -81,7 +81,7 @@ Argyris Argyrou<br>
 <a href="https://pdfs.semanticscholar.org/898c/d58614cdadd5e6e2507cad79e8e37c6ba5e5.pdf"><img src="teasers/Argyrou2012.png"/></a></td>
 <td align="left" width=550><b>'Auditing Journal Entries Using Self-Organizing Map'</b><br>
 Argyris Argyrou<br>
-18th Americas Conference on Information Systems (AMCIS), , , 2012<br>
+18th Americas Conference on Information Systems (AMCIS), Seattle, USA, 2012<br>
 <a href="https://pdfs.semanticscholar.org/898c/d58614cdadd5e6e2507cad79e8e37c6ba5e5.pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -143,7 +143,7 @@ Mary McGlohon,
  Markus G. Anderle, 
  David M. Steier, 
 and,  Christos Faloutsos<br>
-15th Conference on Knowledge Discovery and Data Mining (KDD) - Research Track, , , 2009<br>
+15th Conference on Knowledge Discovery and Data Mining (KDD) - Research Track, Paris, France, 2009<br>
 <a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/mmcgloho/pubs/snare.pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -153,7 +153,7 @@ and,  Christos Faloutsos<br>
 <td align="left" width=550><b>'A Role Mining Inspired Approach to Representing User Behaviour in ERP Systems'</b><br>
 Roheena Q. Khan, 
 and,  Malcolm Corney <br>
-10th Asia Pacific Industrial Engineering and Management Systems Conference, , , 2009<br>
+10th Asia Pacific Industrial Engineering and Management Systems Conference (APIEMS), Kitakyushu, Japan, 2009<br>
 <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.616.6828&rep=rep1&type=pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -166,7 +166,7 @@ Stephan Bay,
  Markus G. Anderle, 
  Rohlt Kumar, 
 and,  David M. Steier <br>
-6th International Conference on Data Mining (ICDM), , , 2006<br>
+6th International Conference on Data Mining (ICDM), Hong Kong, China, 2006<br>
 <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.83.2039&rep=rep1&type=pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
