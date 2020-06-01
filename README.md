@@ -2,7 +2,9 @@
 
 The **Financial Audit Data Analytics Paper Collection** is an academic paper collection that encompasses data analytics, machine learning, and deep learning papers that produce experimental results related to the **audit of financial accounting data**. 
 
-![AISSYSTEM](https://raw.githubusercontent.com/GitiHubi/deepPaper/master/data/ais_systems.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GitiHubi/deepPaper/master/data/ais_systems.png?raw=true" alt="AIS image"/>
+</p>
 
 If you want me to add or remove an article, please send an email to me via marco dot schreyer at unisg dot ch.
 
