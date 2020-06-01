@@ -17,6 +17,16 @@ In 53rd Hawaii International Conference on System Sciences, Manoa, USA, 2020<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1099&context=ecis2020_rp"><img src="teasers/Bhattacharya2020.png"/></a></td>
+<td align="left" width=550><b>'A Semi-Supervised Machine Learning Approach to Detect Anomalies in Big Accounting Data'</b><br>
+Indranil Bhattacharya, 
+and,  Edo Roos Lindgreen<br>
+European Conference on Information Systems, Marrakech, Morocco, 2020<br>
+<a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1099&context=ecis2020_rp">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://www.dfki.de/en/web/research/projects-and-publications/projects/project/spotted/"><img src="teasers/Lahann2019.png"/></a></td>
 <td align="left" width=550><b>'Utilizing Machine Learning Techniques to Reveal VAT Compliance Violations in Accounting Data'</b><br>
 Johannes Lahann, 
