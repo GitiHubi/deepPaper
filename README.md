@@ -10,7 +10,7 @@ The setup up of the collection is currently 'work in progress'. Therefore, pleas
 <a href="https://scholarspace.manoa.hawaii.edu/bitstream/10125/64408/1/0536.pdf"><img src="teasers/Schultz2020.png"/></a></td>
 <td align="left" width=550><b>'Autoencoder Neural Networks versus External Auditors: Detecting Unusual Journal Entries in Financial Statement Audits'</b><br>
 Martin Schultz, 
-and,  Marina Tropmann-Frick<br>
+and  Marina Tropmann-Frick<br>
 In 53rd Hawaii International Conference on System Sciences (HICSS), Manoa, USA, 2020<br>
 <a href="https://scholarspace.manoa.hawaii.edu/bitstream/10125/64408/1/0536.pdf">[Paper]</a> 
 </td></tr></tbody></table>
@@ -20,7 +20,7 @@ In 53rd Hawaii International Conference on System Sciences (HICSS), Manoa, USA, 
 <a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1099&context=ecis2020_rp"><img src="teasers/Bhattacharya2020.png"/></a></td>
 <td align="left" width=550><b>'A Semi-Supervised Machine Learning Approach to Detect Anomalies in Big Accounting Data'</b><br>
 Indranil Bhattacharya, 
-and,  Edo Roos Lindgreen<br>
+and  Edo Roos Lindgreen<br>
 European Conference on Information Systems (ECIS), Marrakech, Morocco, 2020<br>
 <a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1099&context=ecis2020_rp">[Paper]</a> 
 </td></tr></tbody></table>
@@ -31,7 +31,7 @@ European Conference on Information Systems (ECIS), Marrakech, Morocco, 2020<br>
 <td align="left" width=550><b>'Utilizing Machine Learning Techniques to Reveal VAT Compliance Violations in Accounting Data'</b><br>
 Johannes Lahann, 
  Martin Scheid, 
-and,  Peter Fettke<br>
+and  Peter Fettke<br>
 IEEE 21st Conference on Business Informatics (CBI), Moscow, Russia, 2019<br>
 <a href="https://ieeexplore.ieee.org/document/8808015">[Paper]</a> 
 <a href="https://www.dfki.de/en/web/research/projects-and-publications/projects/project/spotted/">[Project]</a>
@@ -44,7 +44,7 @@ IEEE 21st Conference on Business Informatics (CBI), Moscow, Russia, 2019<br>
 Marco Schreyer, 
  Timur Sattarov, 
  Bernd Reimer, 
-and,  Damian Borth<br>
+and  Damian Borth<br>
 Advances in Neural Information Processing Systems 32 (NeurIPS) - Workshop on Robust AI in Financial Services, Vancouver, Canada, 2019<br>
 <a href="https://arxiv.org/pdf/1910.03810">[Paper]</a> 
 </td></tr></tbody></table>
@@ -57,7 +57,7 @@ Marco Schreyer,
  Timur Sattarov, 
  Christian Schulze, 
  Bernd Reimer, 
-and,  Damian Borth<br>
+and  Damian Borth<br>
 25th Conference on Knowledge Discovery and Data Mining (KDD) - 2nd Workshop on Anomaly Detection in Finance, Anchorage, USA, 2019<br>
 <a href="https://arxiv.org/pdf/1908.00734">[Paper]</a> 
 <a href="https://github.com/GitiHubi/deepAD">[Project]</a>
@@ -71,7 +71,7 @@ Marco Schreyer,
  Timur Sattarov, 
  Damian Borth, 
  Andreas Dengel, 
-and,  Bernd Reimer<br>
+and  Bernd Reimer<br>
 Nvidias GPU Technology Conference (GTC) - Financial Services Track, San Jose, USA, 2017<br>
 <a href="https://arxiv.org/pdf/1709.05254">[Paper]</a> 
 <a href="https://github.com/GitiHubi/deepAI">[Project]</a>
@@ -102,7 +102,7 @@ Argyris Argyrou<br>
 Mike Jans, 
  Jan Martijn Van Der Werf, 
  Nadine Lybaert, 
-and,  Koen Vanhoof<br>
+and  Koen Vanhoof<br>
 In Expert Systems with Applications 38, 2011<br>
 <a href="http://isiarticles.com/bundles/Article/pre/pdf/9350.pdf">[Paper]</a> 
 </td></tr></tbody></table>
@@ -112,7 +112,7 @@ In Expert Systems with Applications 38, 2011<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1467089510000540"><img src="teasers/Debreceny2010.png"/></a></td>
 <td align="left" width=550><b>'Data Mining Journal Entries for Fraud Detection: An Exploratory Study'</b><br>
 Roger S. Debreceny, 
-and,  Glen L. Gray <br>
+and  Glen L. Gray <br>
 In International Journal of Accounting Information Systems, 2010<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S1467089510000540">[Paper]</a> 
 </td></tr></tbody></table>
@@ -124,7 +124,7 @@ In International Journal of Accounting Information Systems, 2010<br>
 Roheena Q. Khan, 
  Malcolm Corney, 
  Andrew J. Clark, 
-and,  George M. Mohay <br>
+and  George M. Mohay <br>
 In Industrial Engineering and Management Systems 9, 2010<br>
 <a href="https://pdfs.semanticscholar.org/7718/5ac9267f211981dd484452c14d9042804b80.pdf">[Paper]</a> 
 </td></tr></tbody></table>
@@ -139,7 +139,7 @@ Asadul K. Islam,
  Andrew Clark, 
  Shane Bracher, 
  Tobias Raub, 
-and,  Ulrich Flegel <br>
+and  Ulrich Flegel <br>
 In IFIP Advances in Information and Communication Technology 330, 2010<br>
 <a href="https://hal.inria.fr/hal-01054523/PDF/10-Paper-177-Fraud_Detection_in_ERP_Systems_using_Scenario_Matching-Asadul_Khandoker_Islam.pdf">[Paper]</a> 
 </td></tr></tbody></table>
@@ -152,7 +152,7 @@ Mary McGlohon,
  Stephan Bay, 
  Markus G. Anderle, 
  David M. Steier, 
-and,  Christos Faloutsos<br>
+and  Christos Faloutsos<br>
 15th Conference on Knowledge Discovery and Data Mining (KDD) - Research Track, Paris, France, 2009<br>
 <a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/mmcgloho/pubs/snare.pdf">[Paper]</a> 
 </td></tr></tbody></table>
@@ -162,7 +162,7 @@ and,  Christos Faloutsos<br>
 <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.616.6828&rep=rep1&type=pdf"><img src="teasers/Khan2009.png"/></a></td>
 <td align="left" width=550><b>'A Role Mining Inspired Approach to Representing User Behaviour in ERP Systems'</b><br>
 Roheena Q. Khan, 
-and,  Malcolm Corney <br>
+and  Malcolm Corney <br>
 10th Asia Pacific Industrial Engineering and Management Systems Conference (APIEMS), Kitakyushu, Japan, 2009<br>
 <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.616.6828&rep=rep1&type=pdf">[Paper]</a> 
 </td></tr></tbody></table>
@@ -175,7 +175,7 @@ Stephan Bay,
  Krishna Kumaraswamy, 
  Markus G. Anderle, 
  Rohlt Kumar, 
-and,  David M. Steier <br>
+and  David M. Steier <br>
 6th International Conference on Data Mining (ICDM), Hong Kong, China, 2006<br>
 <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.83.2039&rep=rep1&type=pdf">[Paper]</a> 
 </td></tr></tbody></table>
