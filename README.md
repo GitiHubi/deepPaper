@@ -11,7 +11,7 @@ The setup up of the collection is currently 'work in progress'. Therefore, pleas
 <td align="left" width=550><b>'Autoencoder Neural Networks versus External Auditors: Detecting Unusual Journal Entries in Financial Statement Audits'</b><br>
 Martin Schultz, 
 and,  Marina Tropmann-Frick<br>
-In 53rd Hawaii International Conference on System Sciences, Manoa, USA, 2020<br>
+In 53rd Hawaii International Conference on System Sciences (HICSS), Manoa, USA, 2020<br>
 <a href="https://scholarspace.manoa.hawaii.edu/bitstream/10125/64408/1/0536.pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -21,7 +21,7 @@ In 53rd Hawaii International Conference on System Sciences, Manoa, USA, 2020<br>
 <td align="left" width=550><b>'A Semi-Supervised Machine Learning Approach to Detect Anomalies in Big Accounting Data'</b><br>
 Indranil Bhattacharya, 
 and,  Edo Roos Lindgreen<br>
-European Conference on Information Systems, Marrakech, Morocco, 2020<br>
+European Conference on Information Systems (ECIS), Marrakech, Morocco, 2020<br>
 <a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1099&context=ecis2020_rp">[Paper]</a> 
 </td></tr></tbody></table>
 
