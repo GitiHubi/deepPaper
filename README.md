@@ -8,7 +8,7 @@ The **Financial Audit Data Analytics Paper Collection** is an academic paper col
 
 If you want me to add or remove an article, please send an email to me via **marco dot schreyer at unisg dot ch**. The setup up of the paper collection is currently 'work in progress'. Therefore, please don't expect an all-encompassing list of papers at this point :)
 
-## Selected Papers List
+## List of Selected Papers: 
 
 <br>
 
