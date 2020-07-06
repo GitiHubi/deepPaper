@@ -33,6 +33,17 @@ European Conference on Information Systems (ECIS), Marrakech, Morocco, 2020<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="https://sebd2020.unica.it/proceedings/05-paper.pdf"><img src="teasers/Zupan2020.png"/></a></td>
+<td align="left" width=550><b>'Accounting Journal Reconstruction with Variational Autoencoders and Long Short-term Memory Architecture'</b><br>
+Mario Zupan, 
+ Svjetlana Letinic, 
+and  Verica Budimir<br>
+28th Symposium on Advanced Database Systems (SEBD), Villasimius, Italy, 2020<br>
+<a href="https://sebd2020.unica.it/proceedings/05-paper.pdf">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://www.dfki.de/en/web/research/projects-and-publications/projects/project/spotted/"><img src="teasers/Lahann2019.png"/></a></td>
 <td align="left" width=550><b>'Utilizing Machine Learning Techniques to Reveal VAT Compliance Violations in Accounting Data'</b><br>
 Johannes Lahann, 
@@ -190,6 +201,6 @@ and  David M. Steier <br>
 
 <br>
 
-Last updated in Jun 2020, based on an idea of [Jun-Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/).
+Last updated in Jul 2020, based on an idea of [Jun-Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/).
 <br>
 
