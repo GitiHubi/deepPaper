@@ -96,6 +96,18 @@ Nvidias GPU Technology Conference (GTC) - Financial Services Track, San Jose, US
 
 
 <table> <tbody> <tr> <td align="left" width=250>
+<a href="http://entsci.gatech.edu/businessvis14/"><img src="teasers/Tatu2014.png"/></a></td>
+<td align="left" width=550><b>'Visual Exploration of Journal Entries to Detect Accounting Irregularities and Fraud'</b><br>
+Andrada Tatu, 
+ Marco Schreyer, 
+ Jan Hagelauer, 
+and  Jixuan Wang<br>
+IEEE VIS 2014 Workshop - Information Visualization and Visual Analytics in Business, Paris, France, 2014<br>
+<a href="http://entsci.gatech.edu/businessvis14/">[Paper]</a> 
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
 <a href="https://pdfs.semanticscholar.org/191d/09d88c0013fbd5d3cf6f608bc3a4363b38db.pdf"><img src="teasers/Argyrou2013.png"/></a></td>
 <td align="left" width=550><b>'Auditing Journal Entries Using Extreme Vale Theory'</b><br>
 Argyris Argyrou<br>
