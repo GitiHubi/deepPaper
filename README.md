@@ -18,7 +18,7 @@ If you want me to add or remove an article, please send an email to me via **mar
 Marco Schreyer, 
  Christian Schulze, 
 and  Damian Borth<br>
-,<br>
+AAAI Workshop on Knowledge Discovery from Unstructured Data in Financial Services,<br>
 Virtual, Virtual, 2021<br>
 <a href="https://www.alexandria.unisg.ch/261665/1/AAAI_2021_preprint.pdf">[Paper]</a> 
 <a href="https://hsg-aiml.github.io/audit.html">[Project]</a>
