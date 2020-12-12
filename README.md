@@ -20,7 +20,8 @@ Marco Schreyer,
  Anita Gierbl, 
  Bernd Reimer, 
 and  Damian Borth<br>
-International Conference on Artificial Intelligen in Finance (ICAIF), New York, USA, 2020<br>
+International Conference on Artificial Intelligence in Finance (ICAIF),<br>
+New York, USA, 2020<br>
 <a href="https://arxiv.org/pdf/2008.02528.pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -30,7 +31,8 @@ International Conference on Artificial Intelligen in Finance (ICAIF), New York, 
 <td align="left" width=550><b>'Autoencoder Neural Networks versus External Auditors: Detecting Unusual Journal Entries in Financial Statement Audits'</b><br>
 Martin Schultz, 
 and  Marina Tropmann-Frick<br>
-In 53rd Hawaii International Conference on System Sciences (HICSS), Manoa, USA, 2020<br>
+In 53rd Hawaii International Conference on System Sciences (HICSS),<br>
+Manoa, USA, 2020<br>
 <a href="https://scholarspace.manoa.hawaii.edu/bitstream/10125/64408/1/0536.pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -40,7 +42,8 @@ In 53rd Hawaii International Conference on System Sciences (HICSS), Manoa, USA, 
 <td align="left" width=550><b>'A Semi-Supervised Machine Learning Approach to Detect Anomalies in Big Accounting Data'</b><br>
 Indranil Bhattacharya, 
 and  Edo Roos Lindgreen<br>
-European Conference on Information Systems (ECIS), Marrakech, Morocco, 2020<br>
+European Conference on Information Systems (ECIS),<br>
+Marrakech, Morocco, 2020<br>
 <a href="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1099&context=ecis2020_rp">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -51,7 +54,8 @@ European Conference on Information Systems (ECIS), Marrakech, Morocco, 2020<br>
 Mario Zupan, 
  Svjetlana Letinic, 
 and  Verica Budimir<br>
-28th Symposium on Advanced Database Systems (SEBD), Villasimius, Italy, 2020<br>
+28th Symposium on Advanced Database Systems (SEBD),<br>
+Villasimius, Italy, 2020<br>
 <a href="https://sebd2020.unica.it/proceedings/05-paper.pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -62,7 +66,8 @@ and  Verica Budimir<br>
 Johannes Lahann, 
  Martin Scheid, 
 and  Peter Fettke<br>
-IEEE 21st Conference on Business Informatics (CBI), Moscow, Russia, 2019<br>
+IEEE 21st Conference on Business Informatics (CBI),<br>
+Moscow, Russia, 2019<br>
 <a href="https://ieeexplore.ieee.org/document/8808015">[Paper]</a> 
 <a href="https://www.dfki.de/en/web/research/projects-and-publications/projects/project/spotted/">[Project]</a>
 </td></tr></tbody></table>
@@ -75,7 +80,8 @@ Marco Schreyer,
  Timur Sattarov, 
  Bernd Reimer, 
 and  Damian Borth<br>
-Advances in Neural Information Processing Systems 32 (NeurIPS) - Workshop on Robust AI in Financial Services, Vancouver, Canada, 2019<br>
+Advances in Neural Information Processing Systems 32 (NeurIPS) - Workshop on Robust AI in Financial Services,<br>
+Vancouver, Canada, 2019<br>
 <a href="https://arxiv.org/pdf/1910.03810">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -88,7 +94,8 @@ Marco Schreyer,
  Christian Schulze, 
  Bernd Reimer, 
 and  Damian Borth<br>
-25th Conference on Knowledge Discovery and Data Mining (KDD) - 2nd Workshop on Anomaly Detection in Finance, Anchorage, USA, 2019<br>
+25th Conference on Knowledge Discovery and Data Mining (KDD) - 2nd Workshop on Anomaly Detection in Finance,<br>
+Anchorage, USA, 2019<br>
 <a href="https://arxiv.org/pdf/1908.00734">[Paper]</a> 
 <a href="https://github.com/GitiHubi/deepAD">[Project]</a>
 </td></tr></tbody></table>
@@ -102,7 +109,8 @@ Marco Schreyer,
  Damian Borth, 
  Andreas Dengel, 
 and  Bernd Reimer<br>
-Nvidias GPU Technology Conference (GTC) - Financial Services Track, San Jose, USA, 2017<br>
+Nvidias GPU Technology Conference (GTC) - Financial Services Track,<br>
+San Jose, USA, 2017<br>
 <a href="https://arxiv.org/pdf/1709.05254">[Paper]</a> 
 <a href="https://github.com/GitiHubi/deepAI">[Project]</a>
 </td></tr></tbody></table>
@@ -115,7 +123,8 @@ Andrada Tatu,
  Marco Schreyer, 
  Jan Hagelauer, 
 and  Jixuan Wang<br>
-IEEE VIS 2014 Workshop - Information Visualization and Visual Analytics in Business, Paris, France, 2014<br>
+IEEE VIS 2014 Workshop - Information Visualization and Visual Analytics in Business,<br>
+Paris, France, 2014<br>
 <a href="http://entsci.gatech.edu/businessvis14/">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -124,7 +133,8 @@ IEEE VIS 2014 Workshop - Information Visualization and Visual Analytics in Busin
 <a href="https://pdfs.semanticscholar.org/191d/09d88c0013fbd5d3cf6f608bc3a4363b38db.pdf"><img src="teasers/Argyrou2013.png"/></a></td>
 <td align="left" width=550><b>'Auditing Journal Entries Using Extreme Vale Theory'</b><br>
 Argyris Argyrou<br>
-21st European Conference on Information Systems (ECIS), Utrecht, Netherlands, 2013<br>
+21st European Conference on Information Systems (ECIS),<br>
+Utrecht, Netherlands, 2013<br>
 <a href="https://pdfs.semanticscholar.org/191d/09d88c0013fbd5d3cf6f608bc3a4363b38db.pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -133,7 +143,8 @@ Argyris Argyrou<br>
 <a href="https://pdfs.semanticscholar.org/898c/d58614cdadd5e6e2507cad79e8e37c6ba5e5.pdf"><img src="teasers/Argyrou2012.png"/></a></td>
 <td align="left" width=550><b>'Auditing Journal Entries Using Self-Organizing Map'</b><br>
 Argyris Argyrou<br>
-18th Americas Conference on Information Systems (AMCIS), Seattle, USA, 2012<br>
+18th Americas Conference on Information Systems (AMCIS),<br>
+Seattle, USA, 2012<br>
 <a href="https://pdfs.semanticscholar.org/898c/d58614cdadd5e6e2507cad79e8e37c6ba5e5.pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -195,7 +206,8 @@ Mary McGlohon,
  Markus G. Anderle, 
  David M. Steier, 
 and  Christos Faloutsos<br>
-15th Conference on Knowledge Discovery and Data Mining (KDD) - Research Track, Paris, France, 2009<br>
+15th Conference on Knowledge Discovery and Data Mining (KDD) - Research Track,<br>
+Paris, France, 2009<br>
 <a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/mmcgloho/pubs/snare.pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -205,7 +217,8 @@ and  Christos Faloutsos<br>
 <td align="left" width=550><b>'A Role Mining Inspired Approach to Representing User Behaviour in ERP Systems'</b><br>
 Roheena Q. Khan, 
 and  Malcolm Corney <br>
-10th Asia Pacific Industrial Engineering and Management Systems Conference (APIEMS), Kitakyushu, Japan, 2009<br>
+10th Asia Pacific Industrial Engineering and Management Systems Conference (APIEMS),<br>
+Kitakyushu, Japan, 2009<br>
 <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.616.6828&rep=rep1&type=pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
@@ -218,7 +231,8 @@ Stephan Bay,
  Markus G. Anderle, 
  Rohlt Kumar, 
 and  David M. Steier <br>
-6th International Conference on Data Mining (ICDM), Hong Kong, China, 2006<br>
+6th International Conference on Data Mining (ICDM),<br>
+Hong Kong, China, 2006<br>
 <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.83.2039&rep=rep1&type=pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
