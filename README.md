@@ -1,4 +1,4 @@
-## Financial Statement Audit :: Audit Data Analytics :: Paper Collection
+## Financial Audits :: Data Analytics :: Paper Collection
 
 The **Financial Audit Data Analytics Paper Collection** is an academic paper collection that encompasses data analytics, machine learning, and deep learning papers that produce experimental results related to the **audit of financial accounting data**. 
 
@@ -6,11 +6,24 @@ The **Financial Audit Data Analytics Paper Collection** is an academic paper col
   <img src="https://raw.githubusercontent.com/GitiHubi/deepPaper/master/data/ais_systems.png?raw=true" alt="AIS image" height="300"/>
 </p>
 
-If you want me to add or remove an article, please send an email to **marco dot schreyer at unisg dot ch**. The setup up of the paper collection is currently 'work in progress'. Therefore, please don't expect an all-encompassing list of papers at this point :)
+If you want me to add or remove an article, please send an email to me via **marco dot schreyer at unisg dot ch**. The setup up of the paper collection is currently 'work in progress'. Therefore, please don't expect an all-encompassing list of papers at this point :)
 
 ## List of Selected Papers: 
 
 <br>
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/pdf/2008.02528.pdf"><img src="teasers/Schreyer2020.png"/></a></td>
+<td align="left" width=550><b>'Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Neural Networks'</b><br>
+Marco Schreyer, 
+ Timur Sattarov, 
+ Anita Gierbl, 
+ Bernd Reimer, 
+and  Damian Borth<br>
+International Conference on Artificial Intelligen in Finance (ICAIF), New York, USA, 2020<br>
+<a href="https://arxiv.org/pdf/2008.02528.pdf">[Paper]</a> 
+</td></tr></tbody></table>
+
 
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="https://scholarspace.manoa.hawaii.edu/bitstream/10125/64408/1/0536.pdf"><img src="teasers/Schultz2020.png"/></a></td>
@@ -213,6 +226,6 @@ and  David M. Steier <br>
 
 <br>
 
-Last updated in Jul 2020, based on an idea of [Jun-Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/).
+Last updated in Dec 2020, based on an idea of [Jun-Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/).
 <br>
 
