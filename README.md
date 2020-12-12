@@ -1,4 +1,4 @@
-## Financial Audits :: Data Analytics :: Paper Collection
+## Financial Statement Audit :: Audit Data Analytics :: Paper Collection
 
 The **Financial Audit Data Analytics Paper Collection** is an academic paper collection that encompasses data analytics, machine learning, and deep learning papers that produce experimental results related to the **audit of financial accounting data**. 
 
