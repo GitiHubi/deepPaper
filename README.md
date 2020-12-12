@@ -1,4 +1,4 @@
-## Financial Audits :: Data Analytics :: Paper Collection
+## Financial Statement Audit :: Audit Data Analytics :: Paper Collection
 
 The **Financial Audit Data Analytics Paper Collection** is an academic paper collection that encompasses data analytics, machine learning, and deep learning papers that produce experimental results related to the **audit of financial accounting data**. 
 
@@ -13,7 +13,7 @@ If you want me to add or remove an article, please send an email to me via **mar
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="https://arxiv.org/pdf/2008.02528.pdf"><img src="teasers/Schreyer2020.png"/></a></td>
+<a href="https://www.alexandria.unisg.ch/260768/1/ICAIF_2020_finale.pdf"><img src="teasers/Schreyer2020.png"/></a></td>
 <td align="left" width=550><b>'Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Neural Networks'</b><br>
 Marco Schreyer, 
  Timur Sattarov, 
@@ -22,7 +22,7 @@ Marco Schreyer,
 and  Damian Borth<br>
 International Conference on Artificial Intelligence in Finance (ICAIF),<br>
 New York, USA, 2020<br>
-<a href="https://arxiv.org/pdf/2008.02528.pdf">[Paper]</a> 
+<a href="https://www.alexandria.unisg.ch/260768/1/ICAIF_2020_finale.pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
 
@@ -74,7 +74,7 @@ Moscow, Russia, 2019<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="https://arxiv.org/pdf/1910.03810"><img src="teasers/Schreyer2019b.png"/></a></td>
+<a href="https://www.alexandria.unisg.ch/258090/1/NeurIPS_2019_RAIFS_final.pdf"><img src="teasers/Schreyer2019b.png"/></a></td>
 <td align="left" width=550><b>'Adversarial Learning of Deepfakes in Accounting'</b><br>
 Marco Schreyer, 
  Timur Sattarov, 
@@ -82,7 +82,7 @@ Marco Schreyer,
 and  Damian Borth<br>
 Advances in Neural Information Processing Systems 32 (NeurIPS) - Workshop on Robust AI in Financial Services,<br>
 Vancouver, Canada, 2019<br>
-<a href="https://arxiv.org/pdf/1910.03810">[Paper]</a> 
+<a href="https://www.alexandria.unisg.ch/258090/1/NeurIPS_2019_RAIFS_final.pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
 
@@ -96,7 +96,7 @@ Marco Schreyer,
 and  Damian Borth<br>
 25th Conference on Knowledge Discovery and Data Mining (KDD) - 2nd Workshop on Anomaly Detection in Finance,<br>
 Anchorage, USA, 2019<br>
-<a href="https://arxiv.org/pdf/1908.00734">[Paper]</a> 
+<a href="https://www.alexandria.unisg.ch/257633/4/KDD_2019_ADF_final.pdf">[Paper]</a> 
 <a href="https://github.com/GitiHubi/deepAD">[Project]</a>
 </td></tr></tbody></table>
 
@@ -111,13 +111,13 @@ Marco Schreyer,
 and  Bernd Reimer<br>
 Nvidias GPU Technology Conference (GTC) - Financial Services Track,<br>
 San Jose, USA, 2017<br>
-<a href="https://arxiv.org/pdf/1709.05254">[Paper]</a> 
+<a href="https://www.alexandria.unisg.ch/258111/1/GTC_2018_final.pdf">[Paper]</a> 
 <a href="https://github.com/GitiHubi/deepAI">[Project]</a>
 </td></tr></tbody></table>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="http://entsci.gatech.edu/businessvis14/"><img src="teasers/Tatu2014.png"/></a></td>
+<a href="https://www.alexandria.unisg.ch/260689/1/businessvis2014-tatu.pdf"><img src="teasers/Tatu2014.png"/></a></td>
 <td align="left" width=550><b>'Visual Exploration of Journal Entries to Detect Accounting Irregularities and Fraud'</b><br>
 Andrada Tatu, 
  Marco Schreyer, 
@@ -125,7 +125,7 @@ Andrada Tatu,
 and  Jixuan Wang<br>
 IEEE VIS 2014 Workshop - Information Visualization and Visual Analytics in Business,<br>
 Paris, France, 2014<br>
-<a href="http://entsci.gatech.edu/businessvis14/">[Paper]</a> 
+<a href="https://www.alexandria.unisg.ch/260689/1/businessvis2014-tatu.pdf">[Paper]</a> 
 </td></tr></tbody></table>
 
 
