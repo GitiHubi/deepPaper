@@ -13,7 +13,20 @@ If you want me to add or remove an article, please send an email to me via **mar
 <br>
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="https://www.alexandria.unisg.ch/260768/1/ICAIF_2020_finale.pdf"><img src="teasers/Schreyer2020.png"/></a></td>
+<a href="https://hsg-aiml.github.io/audit.html"><img src="teasers/Schreyer2021.png"/></a></td>
+<td align="left" width=550><b>'Leaking Sensitive Financial Accounting Data in Plain Sight using Deep Autoencoder Neural Networks'</b><br>
+Marco Schreyer, 
+ Christian Schulze, 
+and  Damian Borth<br>
+,<br>
+Virtual, Virtual, 2021<br>
+<a href="https://www.alexandria.unisg.ch/261665/1/AAAI_2021_preprint.pdf">[Paper]</a> 
+<a href="https://hsg-aiml.github.io/audit.html">[Project]</a>
+</td></tr></tbody></table>
+
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://hsg-aiml.github.io/audit.html"><img src="teasers/Schreyer2020.png"/></a></td>
 <td align="left" width=550><b>'Learning Sampling in Financial Statement Audits using Vector Quantised Autoencoder Neural Networks'</b><br>
 Marco Schreyer, 
  Timur Sattarov, 
@@ -23,6 +36,7 @@ and  Damian Borth<br>
 International Conference on Artificial Intelligence in Finance (ICAIF),<br>
 New York, USA, 2020<br>
 <a href="https://www.alexandria.unisg.ch/260768/1/ICAIF_2020_finale.pdf">[Paper]</a> 
+<a href="https://hsg-aiml.github.io/audit.html">[Project]</a>
 </td></tr></tbody></table>
 
 
@@ -74,7 +88,7 @@ Moscow, Russia, 2019<br>
 
 
 <table> <tbody> <tr> <td align="left" width=250>
-<a href="https://www.alexandria.unisg.ch/258090/1/NeurIPS_2019_RAIFS_final.pdf"><img src="teasers/Schreyer2019b.png"/></a></td>
+<a href="https://hsg-aiml.github.io/audit.html"><img src="teasers/Schreyer2019b.png"/></a></td>
 <td align="left" width=550><b>'Adversarial Learning of Deepfakes in Accounting'</b><br>
 Marco Schreyer, 
  Timur Sattarov, 
@@ -83,6 +97,7 @@ and  Damian Borth<br>
 Advances in Neural Information Processing Systems 32 (NeurIPS) - Workshop on Robust AI in Financial Services,<br>
 Vancouver, Canada, 2019<br>
 <a href="https://www.alexandria.unisg.ch/258090/1/NeurIPS_2019_RAIFS_final.pdf">[Paper]</a> 
+<a href="https://hsg-aiml.github.io/audit.html">[Project]</a>
 </td></tr></tbody></table>
 
 
