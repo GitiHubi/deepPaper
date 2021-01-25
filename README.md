@@ -1,16 +1,27 @@
 ## Financial Statement Audit :: Audit Data Analytics :: Paper Collection
 
-The **Financial Audit Data Analytics Paper Collection** is an academic paper collection that encompasses (i) data analytics, (ii) machine learning, and (iii) deep learning papers that produce experimental results related to the **audit of financial accounting data**. The paper collection thereby focuses on "Journal Entry" data usually observable in **Accounting Information Systems (AIS)** or **Enterprise Resource Planing (ERP)** systems.
-
+The **Financial Audit Data Analytics Paper Collection** is an academic paper collection that encompasses (i) data analytics, (ii) machine learning, and (iii) deep learning papers that produce experimental results related to the ** (internal) audit of financial accounting data**. The paper collection thereby focuses on "Journal Entry" data usually observable in **Accounting Information Systems (AIS)** or **Enterprise Resource Planing (ERP)** systems.
 <p align="center">
   <img src="https://raw.githubusercontent.com/GitiHubi/deepPaper/master/data/ais_systems.png?raw=true" alt="AIS image" height="300"/>
 </p>
 
 If you want me to add or remove a paper, please send me an email (**marco dot schreyer at unisg dot ch**). The collection is currently "work in progress". Please don't expect an all-encompassing list of papers at this point. **Happy auditing :)**
-
 ## List of Selected Papers: 
 
 <br>
+
+<table> <tbody> <tr> <td align="left" width=250>
+<a href="https://scholarspace.manoa.hawaii.edu/bitstream/10125/71317/0562.pdf"><img src="teasers/Nonnenmacher2021.png"/></a></td>
+<td align="left" width=550><b>'Using Autoencoders for Data-Driven Analysis in Internal Auditing'</b><br>
+Jakob Nonnenmacher, 
+ Felix Kruse, 
+ Gerrit Schumann, 
+and  Jorge Marx Gomez<br>
+In 54th Hawaii International Conference on System Sciences (HICSS),<br>
+Manoa, USA, 2021<br>
+<a href="https://scholarspace.manoa.hawaii.edu/bitstream/10125/71317/0562.pdf">[Paper]</a> 
+</td></tr></tbody></table>
+
 
 <table> <tbody> <tr> <td align="left" width=250>
 <a href="https://hsg-aiml.github.io/audit.html"><img src="teasers/Schreyer2021.png"/></a></td>
@@ -255,6 +266,6 @@ Hong Kong, China, 2006<br>
 
 <br>
 
-Last updated in Dec 2020, based on an idea of [Jun-Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/).
+Last updated in Jan 2021, based on an idea of [Jun-Yan Zhu](http://www.eecs.berkeley.edu/~junyanz/).
 <br>
 
