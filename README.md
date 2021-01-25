@@ -1,12 +1,12 @@
 ## Financial Statement Audit :: Audit Data Analytics :: Paper Collection
 
-The **Financial Audit Data Analytics Paper Collection** is an academic paper collection that encompasses data analytics, machine learning, and deep learning papers that produce experimental results related to the **audit of financial accounting data**. 
+The **Financial Audit Data Analytics Paper Collection** is an academic paper collection that encompasses (i) data analytics, (ii) machine learning, and (iii) deep learning papers that produce experimental results related to the **audit of financial accounting data**. The paper collection thereby focuses on "Journal Entry" data usually observable in **Accounting Information Systems (AIS)** or **Enterprise Resource Planing (ERP)** systems.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GitiHubi/deepPaper/master/data/ais_systems.png?raw=true" alt="AIS image" height="300"/>
 </p>
 
-If you want me to add or remove an article, please send an email to me via **marco dot schreyer at unisg dot ch**. The setup up of the paper collection is currently 'work in progress'. Therefore, please don't expect an all-encompassing list of papers at this point :)
+If you want me to add or remove a paper, please send me an email (**marco dot schreyer at unisg dot ch**). The collection is currently "work in progress". Please don't expect an all-encompassing list of papers at this point. **Happy auditing :)**
 
 ## List of Selected Papers: 
 
